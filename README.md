@@ -7,4 +7,4 @@ Notes From OffSec-live 2022
 
 ## Contents
 
-[1. Terminal Best Practices.md](1. Terminal Best Practices.md)
+[1. Terminal Best Practices.md](https://github.com/imrk51/OffSec-live2022/blob/main/1.TerminalBestPractices.md)
